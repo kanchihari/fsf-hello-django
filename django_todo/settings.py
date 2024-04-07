@@ -33,7 +33,7 @@ SECRET_KEY = 'django-insecure-bxp$cy89wh)#mg6_s&%31f6(mm=pwl314a%_5vc0$(1fugh)fd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["8000-kanchihari-fsfhellodjan-izm0skeywrx.ws-eu110.gitpod.io"]
+ALLOWED_HOSTS = ["django-todopp4min-app-a508286a7cbc.herokuapp.com"]
 
 
 # Application definition
